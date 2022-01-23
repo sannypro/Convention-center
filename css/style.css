@@ -3,6 +3,18 @@ body{
     font-family: 'Open Sans', sans-serif;
 font-family: 'Poppins', sans-serif;
 }
-.font-weight{
+.button-bg{
+    background-color: white;
+    color: blue;
     
+}
+.text-black{
+    color: white;
+    background-color: black;
+    display: inline-block;
+    padding: 5px;
+    border-radius: 10px;
+}
+.button-bg a{
+    text-decoration: none;
 }
