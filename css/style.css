@@ -18,3 +18,17 @@ font-family: 'Poppins', sans-serif;
 .button-bg a{
     text-decoration: none;
 }
+.features li{
+    list-style: none; 
+    padding-bottom: 10px;    
+}
+.border-radius{
+    border-radius: 20px;
+    padding-bottom: 30px;
+}
+.padding-top{
+    padding-top: 110px;
+}
+.choose-me{
+    background-color:#fad0eba9;
+}
