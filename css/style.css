@@ -15,7 +15,7 @@ font-family: 'Poppins', sans-serif;
     padding: 5px;
     border-radius: 10px;
 }
-.button-bg a{
+ a{
     text-decoration: none;
 }
 .features li{
@@ -38,4 +38,9 @@ font-family: 'Poppins', sans-serif;
     display: inline-block;
     padding: 5px;
     border-radius: 10px;
+}
+.bg-img{
+    background-image: url(../icons/watermark.svg);
+    background-repeat: no-repeat;
+    background-position: right ;
 }
